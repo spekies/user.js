@@ -64,4 +64,4 @@ user_pref("browser.preferences.experimental", false);
 // DNS
 user_pref("network.trr.custom_uri", "https://dns11.quad9.net/dns-query");
 user_pref("network.trr.uri", "https://dns11.quad9.net/dns-query");
-user_pref("network.trr.mode", "3");
+user_pref("network.trr.mode", "3"); // change 3 to 5 for default DNS resolver
