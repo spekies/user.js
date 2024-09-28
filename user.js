@@ -32,8 +32,6 @@ user_pref("signon.management.page.breachAlertUrl", "");
 user_pref("dom.security.https_only_mode", true);
 user_pref("signon.autofillForms", false);
 user_pref("signon.formlessCapture.enabled", false);
-//user_pref("browser.download.useDownloadDir", false);
-//user_pref("browser.download.dir", "DIRECTORY"); // change "DIRECTORY"
 
 // search
 user_pref("browser.urlbar.showSearchTerms.enabled", false);
@@ -61,8 +59,3 @@ user_pref("app.shield.optoutstudies.enabled", false);
 user_pref("datareporting.healthreport.uploadEnabled", false);
 user_pref("signon.firefoxRelay.feature", "disabled");
 user_pref("browser.preferences.experimental", false);
-
-// DNS
-user_pref("network.trr.custom_uri", "https://dns11.quad9.net/dns-query"); // delete this if you are using the default DNS resolver
-user_pref("network.trr.uri", "https://dns11.quad9.net/dns-query"); // delete this if you are using the default DNS resolver
-user_pref("network.trr.mode", "3"); // change 3 to 5 for default DNS resolver
