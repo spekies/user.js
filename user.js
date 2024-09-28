@@ -30,9 +30,11 @@ user_pref("signon.generation.enabled", false);
 user_pref("signon.management.page.breach-alerts.enabled", false);
 user_pref("signon.management.page.breachAlertUrl", "");
 user_pref("dom.security.https_only_mode", true);
-user_pref("browser.download.useDownloadDir", false);
 user_pref("signon.autofillForms", false);
 user_pref("signon.formlessCapture.enabled", false);
+//user_pref("browser.download.useDownloadDir", false);
+//user_pref("services.sync.prefs.sync.browser.download.useDownloadDir", false);
+//user_pref("browser.download.dir", "DIRECTORY"); // change "DIRECTORY"
 
 // search
 user_pref("browser.urlbar.showSearchTerms.enabled", false);
