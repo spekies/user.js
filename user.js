@@ -32,6 +32,10 @@ user_pref("signon.management.page.breachAlertUrl", "");
 user_pref("dom.security.https_only_mode", true);
 user_pref("signon.autofillForms", false);
 user_pref("signon.formlessCapture.enabled", false);
+/*
+user_pref("browser.privatebrowsing.autostart", true); // use "private" window by default
+user_pref("privacy.history.custom", true); // use custom settings for history
+*/
 
 // search
 user_pref("browser.urlbar.showSearchTerms.enabled", false);
