@@ -51,7 +51,6 @@ user_pref("browser.urlbar.suggest.weather", false);
 user_pref("browser.preferences.moreFromMozilla", false);
 user_pref("identity.fxaccounts.enabled", false);
 user_pref("extensions.pocket.enabled", false);
-user_pref("browser.tabs.firefox-view", false);
 user_pref("extensions.getAddons.showPane", false);
 user_pref("extensions.htmlaboutaddons.inline-options.enabled", false);
 user_pref("extensions.htmlaboutaddons.recommendations.enabled", false);
