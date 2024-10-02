@@ -4,7 +4,7 @@ The goal of this user.js is to disable as much of Mozilla's bloat as possible an
 This user.js is not meant to provide as much security or privacy as possible, it is just my personal user.js
 
 # What does this user.js file do?
-This user.js file disables a lot of things including: Firefox's welcome page, about:config warning, Firefox's home page and all home content, autofill for everything, password management provided by Firefox, all unnecessary search suggestions, Mozilla features such as Pocket, Firefox Sync, Firefox Relay, Firefox View (not fully disabled), Firefox's new AI features, studies and health report datareporting, Recommendations in about:addons.
+This user.js file disables a lot of things including: Firefox's welcome page, about:config warning, Firefox's home page and all home content, autofill for everything, password management provided by Firefox, all unnecessary search suggestions, Mozilla features such as Pocket, Firefox Sync, Firefox Relay, Firefox View (cannot be disabled through user.js), Firefox's new AI features, studies and health report datareporting, Recommendations in about:addons.
 This user.js file also enables some protections that enhance privacy somewhat, including: HTTPS only mode, Enhanced Tracking Protection set to strict.
 
 # Changing the user.js
