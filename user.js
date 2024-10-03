@@ -1,5 +1,4 @@
 // startup
-
 /*
 about:config warning
 */
