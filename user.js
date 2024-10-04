@@ -30,7 +30,7 @@ user_pref("browser.newtabpage.enabled", false);
 user_pref("browser.urlbar.suggest.trending", false);
 user_pref("browser.urlbar.suggest.searches", false);
 user_pref("browser.urlbar.suggest.recentsearches", false);
-//
+user_pref("browser.urlbar.showSearchSuggestionsFirst", false);
 user_pref("browser.urlbar.suggest.topsites", false);
 user_pref("browser.urlbar.suggest.engines", false);
 user_pref("browser.urlbar.suggest.quicksuggest.sponsored", false);
