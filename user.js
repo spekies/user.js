@@ -14,7 +14,7 @@ user_pref("extensions.htmlaboutaddons.recommendations.enabled", false); // addon
 user_pref("app.shield.optoutstudies.enabled", false); // data collecting in about:preferences
 user_pref("datareporting.healthreport.uploadEnabled", false); // data collecting in about:preferences
 user_pref("browser.preferences.experimental", false); // AI features in about:preferences
-// home
+// Home about:preferences#home
 user_pref("browser.newtabpage.activity-stream.feeds.section.topstories", false);
 user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
 user_pref("browser.newtabpage.activity-stream.showSearch", false);
@@ -26,3 +26,12 @@ user_pref("browser.newtabpage.activity-stream.section.highlights.includeDownload
 user_pref("browser.newtabpage.activity-stream.section.highlights.includeBookmarks", false);
 user_pref("browser.newtabpage.activity-stream.section.highlights.includePocket", false);
 user_pref("browser.newtabpage.enabled", false);
+// Search about:preferences#search
+user_pref("browser.urlbar.suggest.trending", false);
+user_pref("browser.urlbar.suggest.searches", false);
+user_pref("browser.urlbar.suggest.recentsearches", false);
+//
+user_pref("browser.urlbar.suggest.topsites", false);
+user_pref("browser.urlbar.suggest.engines", false);
+user_pref("browser.urlbar.suggest.quicksuggest.sponsored", false);
+user_pref("browser.urlbar.suggest.quicksuggest.nonsponsored", false);
