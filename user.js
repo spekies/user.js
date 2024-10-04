@@ -14,3 +14,11 @@ user_pref("extensions.htmlaboutaddons.recommendations.enabled", false); // addon
 user_pref("app.shield.optoutstudies.enabled", false); // data collecting in about:preferences
 user_pref("datareporting.healthreport.uploadEnabled", false); // data collecting in about:preferences
 user_pref("browser.preferences.experimental", false); // AI features in about:preferences
+// home
+user_pref("browser.newtabpage.activity-stream.feeds.section.topstories", false);
+user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
+user_pref("browser.newtabpage.activity-stream.showSearch", false);
+user_pref("browser.newtabpage.activity-stream.showSponsored", false);
+user_pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false);
+user_pref("browser.newtabpage.activity-stream.showWeather", false);
+user_pref("browser.newtabpage.enabled", false);
