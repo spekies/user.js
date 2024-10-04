@@ -38,4 +38,11 @@ user_pref("browser.urlbar.suggest.quicksuggest.nonsponsored", false);
 // about:preferences#privacy
 user_pref("browser.contentblocking.category", "strict");
 user_pref("privacy.sanitize.sanitizeOnShutdown", true);
+user_pref("signon.rememberSignons", false);  
+user_pref("signon.autofillForms", false);
+user_pref("signon.generation.enabled", false);
+user_pref("signon.firefoxRelay.feature", "disabled");
+user_pref("signon.management.page.breach-alerts.enabled", false);
+user_pref("extensions.formautofill.addresses.enabled", false);
+user_pref("extensions.formautofill.creditCards.enabled", false);
 user_pref("dom.security.https_only_mode", true);
